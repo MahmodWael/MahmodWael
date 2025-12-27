@@ -9,7 +9,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi!, My name is
-                <b>Mahmoud Amr Hassan</b>
+                <b>Mahmoud Wael Hamdy</b>
         </samp>
 </h3>
 <p align="center"> 
